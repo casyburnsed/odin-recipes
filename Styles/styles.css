@@ -1,0 +1,72 @@
+/* WEBSITE RULES */
+
+    body {
+        background-color: rgb(61, 61, 61);
+        text-align: center;
+    }
+
+    .all {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+
+    img {
+        background-color: rgb(22, 22, 22);
+        padding: 10px; color: #000;
+        
+    }
+
+    h1, h2 {
+        background-color: rgb(97, 97, 97);
+        color: antiquewhite;
+        font-size: 35px;
+        margin: 0px;
+        border: 5px;
+        padding: 10px;
+    }
+
+    h3, h4 {
+        background-color: rgb(97, 97, 97);
+        color: antiquewhite;
+        font-size: 25px;
+        margin: 0px;
+        border: 5px;
+        padding: 10px;
+    }
+
+/* INDEX PAGE */
+
+    .index {
+        background-color: rgb(131, 131, 131);
+        color: antiquewhite;
+        font-size: 25px;
+        padding: 1px;
+        border: 0px;
+        margin: 0px;
+    }
+
+    a:visited {
+        color: antiquewhite;
+    }
+
+/* RECIPE PAGES */
+
+    .writing {
+        background-color: rgb(131, 131, 131);
+        color: antiquewhite;
+        font-size: 20px;
+        padding: 1px;
+    }
+
+    .lists {
+        background-color: rgb(131, 131, 131);
+        color: antiquewhite;
+        text-align: justify;
+        font-size: 20px;
+        padding: 1px;
+        list-style-position: inside;
+    }
+
+    span {
+        color: rgb(160, 4, 4);
+    }
